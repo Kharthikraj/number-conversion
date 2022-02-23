@@ -1,0 +1,14 @@
+.length - length of string or array x[]
+toString() - convert number to string
+Number() - convert string to number
+charAt(i) - used for iterating
+isNaN - is not a number
+padStart() - padding at the start
+slice(x, y) - for iterating
+push - append to array
+"x".charCodeAt(0) - returns ascii value of x
+String.fromCharCode('x') - returns the value of ascii number
+type of - returns type of variable
+
+toUpperCase() - does not convert original string
+toLowerCase() - does not convert the original string
